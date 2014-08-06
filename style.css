@@ -1,0 +1,12 @@
+body {
+	/** font-family: "Calibri"; **/
+	color: #222;
+	line-height:150%;
+}
+
+h3 {
+	display:none;
+}
+main {
+	align: center;
+}
